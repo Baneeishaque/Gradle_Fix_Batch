@@ -1,0 +1,2 @@
+CALL gradle_upgrade.bat
+call gradlew installDebug
